@@ -33,3 +33,9 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Docker 
+
+- Run the application in Docker Environment (Currently, this point to development environment)
+  + Make sure your local machine has been installed the Docker
+  + Run the command `docker-compose up` to starting development the application
+  + Note*: There are some others docker command need to hand on your self
