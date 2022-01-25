@@ -1,6 +1,6 @@
 ## Description
 
-Backend for CoffeShop cart funcionality.
+Backend for Shop cart funcionality.
 
 ## Installation
 
